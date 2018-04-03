@@ -8,7 +8,7 @@ using Prism.Unity;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace BlankApp1
-{
+
     public partial class App : PrismApplication
     {
         /* 
